@@ -9,9 +9,9 @@ Duration: SEPTEMBER 5th 2024 to OCTOBER 5th 2024
 This project showcases a basic portfolio website template. It includes essential sections to highlight your skills, projects, and contact information.
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+> HTML
+> CSS
+> JavaScript
 
 # Sample Output
 
